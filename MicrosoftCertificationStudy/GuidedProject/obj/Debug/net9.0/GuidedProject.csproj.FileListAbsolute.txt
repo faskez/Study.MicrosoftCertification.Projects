@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\bin\Debug\net9.0\GuidedProject.exe
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\bin\Debug\net9.0\GuidedProject.deps.json
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\bin\Debug\net9.0\GuidedProject.runtimeconfig.json
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\bin\Debug\net9.0\GuidedProject.dll
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\bin\Debug\net9.0\GuidedProject.pdb
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.sourcelink.json
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.dll
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\refint\GuidedProject.dll
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.pdb
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\GuidedProject.genruntimeconfig.cache
+C:\Users\alexa\Desktop\Projekti\Study.MicrosoftSertification\MicrosoftCertificationStudy\GuidedProject\obj\Debug\net9.0\ref\GuidedProject.dll
