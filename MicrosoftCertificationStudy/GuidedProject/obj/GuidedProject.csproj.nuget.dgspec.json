@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftSertification\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj": {}
+    "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftCertification\\Study.MicrosoftCertification.Projects\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftSertification\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj": {
+    "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftCertification\\Study.MicrosoftCertification.Projects\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftSertification\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftCertification\\Study.MicrosoftCertification.Projects\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj",
         "projectName": "GuidedProject",
-        "projectPath": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftSertification\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftCertification\\Study.MicrosoftCertification.Projects\\MicrosoftCertificationStudy\\GuidedProject\\GuidedProject.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftSertification\\MicrosoftCertificationStudy\\GuidedProject\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\Desktop\\Projekti\\Study.MicrosoftCertification\\Study.MicrosoftCertification.Projects\\MicrosoftCertificationStudy\\GuidedProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
