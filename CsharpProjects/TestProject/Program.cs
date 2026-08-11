@@ -1,6 +1,14 @@
 ﻿using System.Globalization;
 
 CultureInfo.CurrentCulture = new CultureInfo("en-US");
+
+double mirela = 1.5;
+double aleksa = 0;
+
+if (mirela != aleksa)
+{
+    mirela = aleksa;
+}
 /*Console.WriteLine("Signed integral types:");
 Console.WriteLine($"sbyte  : {sbyte.MinValue} to {sbyte.MaxValue}");
 Console.WriteLine($"short  : {short.MinValue} to {short.MaxValue}");
