@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rILBLFolzQs=",
+  "dgSpecHash": "0tamoOvNu/s=",
   "success": true,
   "projectFilePath": "C:\\Users\\Programiranje\\Desktop\\Programiranje\\Study.MicrosoftCertification.Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Programiranje\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
-    "C:\\Users\\Programiranje\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
-    "C:\\Users\\Programiranje\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512",
-    "C:\\Users\\Programiranje\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.18\\microsoft.netcore.app.host.win-x64.9.0.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
