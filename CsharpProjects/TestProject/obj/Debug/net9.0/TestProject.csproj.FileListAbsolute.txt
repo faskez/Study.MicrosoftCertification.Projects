@@ -28,3 +28,4 @@ C:\Users\Programiranje\Desktop\Programiranje\Study.MicrosoftCertification.Projec
 C:\Users\Programiranje\Desktop\Programiranje\Study.MicrosoftCertification.Projects\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Users\Programiranje\Desktop\Programiranje\Study.MicrosoftCertification.Projects\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Users\Programiranje\Desktop\Programiranje\Study.MicrosoftCertification.Projects\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\Programiranje\Desktop\Programiranje\Study.MicrosoftCertification.Projects\CsharpProjects\TestProject\obj\Debug\net9.0\TestProj.121896E9.Up2Date
